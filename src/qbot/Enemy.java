@@ -1,4 +1,4 @@
-package kiloboltgame;
+package qbot;
 
 public class Enemy {
 	private int maxHealth, currentHealth, power, speedX, centerX, centerY;

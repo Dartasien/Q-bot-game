@@ -1,4 +1,4 @@
-package kiloboltgame;
+package qbot;
 
 import java.awt.Rectangle;
 import java.util.ArrayList;

@@ -1,4 +1,4 @@
-package kiloboltgame;
+package qbot;
 
 import java.applet.Applet;
 import java.awt.Color;
@@ -13,7 +13,7 @@ import java.io.IOException;
 import java.net.URL;
 import java.util.ArrayList;
 
-import kiloboltgame.framework.Animation;
+import qbot.framework.Animation;
 
 public class StartingClass extends Applet implements Runnable, KeyListener {
 	private static final long serialVersionUID = 6773396777634244197L;

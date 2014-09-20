@@ -1,4 +1,4 @@
-package kiloboltgame;
+package qbot;
 
 public class Projectile {
 

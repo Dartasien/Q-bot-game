@@ -1,4 +1,4 @@
-package kiloboltgame.framework;
+package qbot.framework;
 
 import java.awt.Image;
 import java.util.ArrayList;
